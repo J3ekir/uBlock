@@ -552,7 +552,8 @@
 		"tags": "ads chinese 中文",
 		"lang": "ug zh",
 		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/224.txt",
-		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters"
+		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
+		"instructionURL": "https://adguard.com/kb/general/ad-filtering/adguard-filters/"
 	},
 	"CZE-0": {
 		"content": "filters",
@@ -605,7 +606,8 @@
 		"tags": "ads french",
 		"lang": "ar br ff fr lb oc son",
 		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/16.txt",
-		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters"
+		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
+		"instructionURL": "https://adguard.com/kb/general/ad-filtering/adguard-filters/"
 	},
 	"GRC-0": {
 		"content": "filters",
